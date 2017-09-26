@@ -23,7 +23,6 @@ use Exception;
 use Instantiator\Exception\InvalidArgumentException;
 use Instantiator\Exception\UnexpectedValueException;
 use LazyMap\CallbackLazyMap;
-use ReflectionClass;
 
 /**
  * {@inheritDoc}
